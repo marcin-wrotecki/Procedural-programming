@@ -1,0 +1,124 @@
+
+For vertex, whose index is 0, distance to the nearest shop is: 4.5. To reach it, you need 54 minutes and 0 secunds. Index of the shop is 22. 
+
+For vertex, whose index is 1, distance to the nearest shop is: 2.5. To reach it, you need 30 minutes and 0 secunds. Index of the shop is 22. 
+
+For vertex, whose index is 2, distance to the nearest shop is: 2.5. To reach it, you need 30 minutes and 0 secunds. Index of the shop is 9. 
+
+For vertex, whose index is 3, distance to the nearest shop is: 1.5. To reach it, you need 18 minutes and 0 secunds. Index of the shop is 9. 
+
+For vertex, whose index is 4, distance to the nearest shop is: 5.5. To reach it, you need 66 minutes and 0 secunds. Index of the shop is 9. 
+
+For vertex, whose index is 5, distance to the nearest shop is: 3.5. To reach it, you need 42 minutes and 0 secunds. Index of the shop is 9. 
+
+For vertex, whose index is 6, distance to the nearest shop is: 2.5. To reach it, you need 30 minutes and 0 secunds. Index of the shop is 12. 
+
+For vertex, whose index is 7, distance to the nearest shop is: 3.0. To reach it, you need 36 minutes and 0 secunds. Index of the shop is 12. 
+
+For vertex, whose index is 8, distance to the nearest shop is: 2.0. To reach it, you need 24 minutes and 0 secunds. Index of the shop is 12. 
+
+SHOP, whose index is: 9. 
+
+For vertex, whose index is 10, distance to the nearest shop is: 4.0. To reach it, you need 48 minutes and 0 secunds. Index of the shop is 12. 
+
+For vertex, whose index is 11, distance to the nearest shop is: 2.0. To reach it, you need 24 minutes and 0 secunds. Index of the shop is 12. 
+
+SHOP, whose index is: 12. 
+
+For vertex, whose index is 13, distance to the nearest shop is: 2.0. To reach it, you need 24 minutes and 0 secunds. Index of the shop is 12. 
+
+For vertex, whose index is 14, distance to the nearest shop is: 3.0. To reach it, you need 36 minutes and 0 secunds. Index of the shop is 12. 
+
+For vertex, whose index is 15, distance to the nearest shop is: 6.0. To reach it, you need 72 minutes and 0 secunds. Index of the shop is 12. 
+
+SHOP, whose index is: 16. 
+
+For vertex, whose index is 17, distance to the nearest shop is: 2.3. To reach it, you need 27 minutes and 35 secunds. Index of the shop is 22. 
+
+For vertex, whose index is 18, distance to the nearest shop is: 2.0. To reach it, you need 24 minutes and 0 secunds. Index of the shop is 22. 
+
+For vertex, whose index is 19, distance to the nearest shop is: 2.1. To reach it, you need 25 minutes and 12 secunds. Index of the shop is 22. 
+
+For vertex, whose index is 20, distance to the nearest shop is: 2.0. To reach it, you need 24 minutes and 0 secunds. Index of the shop is 9. 
+
+For vertex, whose index is 21, distance to the nearest shop is: 0.5. To reach it, you need 6 minutes and 0 secunds. Index of the shop is 22. 
+
+SHOP, whose index is: 22. 
+
+For vertex, whose index is 23, distance to the nearest shop is: 0.5. To reach it, you need 6 minutes and 0 secunds. Index of the shop is 22. 
+
+For vertex, whose index is 24, distance to the nearest shop is: 2.5. To reach it, you need 30 minutes and 0 secunds. Index of the shop is 22. 
+
+For vertex, whose index is 25, distance to the nearest shop is: 1.5. To reach it, you need 18 minutes and 0 secunds. Index of the shop is 22. 
+
+For vertex, whose index is 26, distance to the nearest shop is: 1.8. To reach it, you need 21 minutes and 35 secunds. Index of the shop is 22. 
+
+
+ Way to home number: 0
+0 -> 1 -> 21 -> 22 
+
+ Way to home number: 1
+1 -> 21 -> 22 
+
+ Way to home number: 2
+2 -> 3 -> 9 
+
+ Way to home number: 3
+3 -> 9 
+
+ Way to home number: 4
+4 -> 3 -> 9 
+
+ Way to home number: 5
+5 -> 3 -> 9 
+
+ Way to home number: 6
+6 -> 12 
+
+ Way to home number: 7
+7 -> 8 -> 12 
+
+ Way to home number: 8
+8 -> 12 
+
+ Way to home number: 10
+10 -> 8 -> 12 
+
+ Way to home number: 11
+11 -> 12 
+
+ Way to home number: 13
+13 -> 12 
+
+ Way to home number: 14
+14 -> 13 -> 12 
+
+ Way to home number: 15
+15 -> 14 -> 13 -> 12 
+
+ Way to home number: 17
+17 -> 18 -> 26 -> 25 -> 23 -> 22 
+
+ Way to home number: 18
+18 -> 26 -> 25 -> 23 -> 22 
+
+ Way to home number: 19
+19 -> 18 -> 26 -> 25 -> 23 -> 22 
+
+ Way to home number: 20
+20 -> 9 
+
+ Way to home number: 21
+21 -> 22 
+
+ Way to home number: 23
+23 -> 22 
+
+ Way to home number: 24
+24 -> 23 -> 22 
+
+ Way to home number: 25
+25 -> 23 -> 22 
+
+ Way to home number: 26
+26 -> 25 -> 23 -> 22 
